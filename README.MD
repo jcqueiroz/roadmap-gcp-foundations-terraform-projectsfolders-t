@@ -20,6 +20,6 @@ Cloud billing quota exceeded: https://support.google.com/code/contact/billing_qu
 ####################################################################
 
 <p align="center">
-  <img src="/IMG/diagram queiroz-dev folders-project gcp.png" width="800" title="Diagram structure folders and projects in GCP">
+  <img src="/IMG/diagram queiroz-dev folders-project-adjust-screen gcp.png" width="800" title="Diagram structure folders and projects in GCP">
   <img src="/IMG/Manage resources create-gcp.png" width="800" alt="Manage resources create-gcp">
 </p>  
